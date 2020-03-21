@@ -4,12 +4,13 @@
 
 # 安装
 
-```
+```bash
 npm install a630140621/electronic-yuque -g
+# 启动
 yuque
 ```
 
-# 问题
+# 可能的问题
 
 ## 使用淘宝镜像安装electron失败
 
