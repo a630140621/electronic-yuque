@@ -1,0 +1,24 @@
+{
+  "name": "electronic-yuque",
+  "version": "1.0.0",
+  "description": "使用electron封装我的语雀首页",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a630140621/electronic-yuque.git"
+  },
+  "keywords": [
+    "electron",
+    "yuque",
+    "note"
+  ],
+  "author": "love@crazy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a630140621/electronic-yuque/issues"
+  },
+  "homepage": "https://github.com/a630140621/electronic-yuque#readme"
+}
