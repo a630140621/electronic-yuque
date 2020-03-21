@@ -4,7 +4,8 @@
   "description": "使用electron封装我的语雀首页",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "electron index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/a630140621/electronic-yuque/issues"
   },
-  "homepage": "https://github.com/a630140621/electronic-yuque#readme"
+  "homepage": "https://github.com/a630140621/electronic-yuque#readme",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
 }
