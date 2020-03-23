@@ -23,7 +23,9 @@ function createWindow() {
     // win.loadFile('index.html');
 
     // 加载网页
-    win.loadURL("https://www.yuque.com/lovecrazy");
+    win.loadURL("https://www.yuque.com/lovecrazy", {
+        userAgent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"
+    });
 
     // 打开开发者工具
     // win.webContents.openDevTools();
